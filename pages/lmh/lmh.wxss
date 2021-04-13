@@ -1,1 +1,4 @@
 /* pages/lmh/lmh.wxss */
+.im{
+  width: 750rpx;
+}

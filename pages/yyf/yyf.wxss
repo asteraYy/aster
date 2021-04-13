@@ -2,4 +2,5 @@
 .im{
   position: absolute;
   top: 200rpx;
+  width: 750rpx; 
 }

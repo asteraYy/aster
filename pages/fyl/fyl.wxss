@@ -1,1 +1,4 @@
 /* pages/fyl/fyl.wxss */
+.im{
+  width: 750rpx;
+}

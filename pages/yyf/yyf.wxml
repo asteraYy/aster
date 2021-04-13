@@ -1,1 +1,1 @@
-<image class = "im" src="/images/yyf.jpg" mode = "widthFix" align-self = "middle"></image>
+<image class = "im" src="/images/yyf.jpg" mode = "aspectFit" align-self = "middle"></image>

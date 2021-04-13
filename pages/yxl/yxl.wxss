@@ -1,1 +1,4 @@
 /* pages/yxl/yxl.wxss */
+.im{
+  width: 750rpx;
+}
