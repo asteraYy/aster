@@ -7,7 +7,7 @@
 </view>
 
 <view>
-<image class = "image_1" catchtap = 'changetzp' wx:if = "{{clicktzp}}" src = "/images/rem.jpeg" mode = "widthFix"></image>
+<image class = "image_1" catchtap = 'changetzp' wx:if = "{{clicktzp}}" src = "/images/lamu.jpg" mode = "widthFix"></image>
 
 <image class = "image_2" catchtap = 'changefyl' wx:if = "{{clickfyl}}" src = "/images/rem.jpeg" mode = "widthFix"></image>
 <text style="margin-left: 89rpx">唐子攀信息</text>
