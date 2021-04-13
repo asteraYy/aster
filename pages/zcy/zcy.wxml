@@ -1,2 +1,4 @@
 <!--pages/zcy/zcy.wxml-->
-<text>pages/zcy/zcy.wxml</text>
+
+<image src="../../images/zcyimg1.png" mode="widthFix"></image>
+<button type="primary">点赞</button>
