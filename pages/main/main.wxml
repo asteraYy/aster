@@ -1,7 +1,7 @@
 <view>
 <image class = "image_1" mode = "widthFix" catchtap = 'changeyyf' wx:if = "{{clickyyf}}" src = "/images/rem.jpeg" ></image>
 
-<image class = "image_2" catchtap = 'changeyxl' wx:if = "{{clickyxl}}" src = "/images/rem.jpeg" mode = "widthFix"></image>
+<image class = "image_2" catchtap = 'changeyxl' wx:if = "{{clickyxl}}" src = "/images/yxl1.jpg" mode = "widthFix"></image>
 <text style="margin-left: 89rpx">殷云飞信息</text>
 <text style="margin-left: 201rpx">杨小亮信息</text>
 </view>
