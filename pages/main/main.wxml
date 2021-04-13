@@ -1,0 +1,28 @@
+<view class = "view1">
+<image class = "image_1" mode = "aspectFit" catchtap = 'changeyyf' wx:if = "{{clickyyf}}" src = "/images/rem.jpeg" ></image>
+<text>殷云飞信息</text>
+</view>
+
+<image catchtap = 'changeyxl' wx:if = "{{clickyxl}}" src = "/images/rem.jpeg" mode = "widthFix"></image>
+<text >杨小亮信息</text>
+
+
+<image catchtap = 'changetzp' wx:if = "{{clicktzp}}" src = "/images/rem.jpeg" mode = "aspectFit"></image>
+<text>唐子攀信息</text>
+
+
+<image catchtap = 'changefyl' wx:if = "{{clickfyl}}" src = "/images/rem.jpeg" mode = "widthFix"></image>
+<text>方元隆信息</text>
+
+
+<image catchtap = 'changezcy' wx:if = "{{clickzcy}}" src = "/images/rem.jpeg" mode = "widthFix"></image>
+<text>张晨悦信息</text>
+
+
+<image catchtap = 'changelmh' wx:if = "{{clicklmh}}" src = "/images/rem.jpeg" mode = "widthFix"></image>
+<text>李默晗信息</text>
+
+
+
+
+

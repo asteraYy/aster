@@ -1,0 +1,10 @@
+/* pages/main/main.wxss */
+.image_1{
+  align-items: left;
+  width : 60;
+  height: 60;
+}
+.view1{
+  width: 30%;
+  height: 30%;
+}
