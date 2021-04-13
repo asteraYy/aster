@@ -1,2 +1,1 @@
-<!--pages/yxl/yxl.wxml-->
-<text>pages/yxl/yxl.wxml</text>
+<image class = "im" src="/images/yxl.jpg" mode = "widthFix" align-self = "middle"></image>
