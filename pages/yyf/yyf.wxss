@@ -1,1 +1,5 @@
 /* pages/yyf/yyf.wxss */
+.im{
+  position: absolute;
+  top: 200rpx;
+}
