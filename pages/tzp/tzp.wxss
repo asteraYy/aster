@@ -1,1 +1,10 @@
 /* pages/tzp/tzp.wxss */
+.info{
+  float: left;
+  position: relative;
+}
+
+.image_1{
+  width: 30;
+  height: 100;
+}

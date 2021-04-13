@@ -1,10 +1,20 @@
 /* pages/main/main.wxss */
 .image_1{
-  align-items: left;
-  width : 60;
-  height: 60;
+  float: left;
+  margin-left: 20rpx;
+  margin-top: 20rpx;
+  position: relative;
+  width: 47%;
 }
-.view1{
-  width: 30%;
-  height: 30%;
+
+.image_2{
+  float: right;
+  margin-left: 20rpx;
+  margin-top: 20rpx;
+  position: relative;
+  width: 47%;
+}
+
+.text1{
+  text-align: left;
 }

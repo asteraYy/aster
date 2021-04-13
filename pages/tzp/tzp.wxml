@@ -1,2 +1,4 @@
-<image src="/images/tzp.jpg" mode = "aspectFill"></image>
+<view class = "info">
+  <image class = "image_1" src = "/images/tzp.jpg"></image>
+</view>
 
