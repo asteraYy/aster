@@ -17,7 +17,7 @@
 <view>
 <image class = "image_1" catchtap = 'changezcy' wx:if = "{{clickzcy}}" src = "/images/aierwen2.jpeg" mode = "widthFix"></image>
 
-<image class = "image_2" catchtap = 'changelmh' wx:if = "{{clicklmh}}" src = "/images/rem.jpeg" mode = "widthFix"></image>
+<image class = "image_2" catchtap = 'changelmh' wx:if = "{{clicklmh}}" src = "/images/lmhtx.jpeg" mode = "widthFix"></image>
 <text style="margin-left: 89rpx">张晨悦信息</text>
 <text style="margin-left: 201rpx">李默晗信息</text>
 </view>
